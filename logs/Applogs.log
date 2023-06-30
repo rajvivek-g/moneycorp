@@ -1,0 +1,9 @@
+[INFO ] 2023-06-29 21:44:11.571 [main] MCSignInPageTest - 1.	Open the following URL: https://www.moneycorp.com/en-gb/  and verify
+[INFO ] 2023-06-29 21:44:11.640 [main] MCSignInPageTest - 2.	Change the language and region from the top right corner to USA (English) and verify
+[INFO ] 2023-06-29 21:44:16.013 [main] MCSignInPageTest - 3.	Click Find out more for “Foreign exchange solutions” Validate if you have arrived on the page
+[INFO ] 2023-06-29 21:44:17.187 [main] MCSignInPageTest - 1.	Open the following URL: https://www.moneycorp.com/en-gb/  and verify
+[INFO ] 2023-06-29 21:44:17.207 [main] MCSignInPageTest - 2.	Change the language and region from the top right corner to USA (English) and verify
+[INFO ] 2023-06-29 21:44:40.098 [main] MCSignInPageTest - 3.	Click Find out more for “Foreign exchange solutions” Validate if you have arrived on the page
+[INFO ] 2023-06-29 21:44:43.860 [main] MCSignInPageTest - 4.	Search for the word “international payments” using the search box
+[INFO ] 2023-06-29 21:44:56.272 [main] MCSignInPageTest - 5.	Validate if you have arrived on the result page
+[INFO ] 2023-06-29 21:44:56.281 [main] MCSignInPageTest - 6.	Validate that each article in the list displays a link that starts with https://www.moneycorp.com/en-us/
